@@ -1,0 +1,29 @@
+.titre {
+    background-color: rgb(12, 3, 87);
+    color: rgb(209, 218, 245);
+    font-size:larger ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.h1 {
+    background-color: rgb(12, 3, 87);
+    color: rgb(209, 218, 245);
+    font-size:larger ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.body {
+    background-color: rgb(193, 220, 221);
+}
+.p {
+
+ font-size:larger ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
